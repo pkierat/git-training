@@ -1,1 +1,1 @@
-GIT training.
+GIT training. Branches
