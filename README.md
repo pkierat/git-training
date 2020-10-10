@@ -2,5 +2,5 @@
 
 this is readme file
 
-* test
-* test2
+* [ ] test
+* [ ] test2
